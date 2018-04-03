@@ -1,0 +1,15 @@
+body
+<link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet">
+h1{color:fuchsia;font-size:24pt;font-family: 'Cutive Mono', monospace;}
+             h2{text-align: center; color:black;font-size:12pt;font-family: 'Cutive Mono', monospace;}
+             h3{text-align: center;color:black;font-size:12pt;font-family: 'Cutive Mono', monospace;}
+             h4{text-align: center;color:black;font-size:12pt;font-family: 'Cutive Mono', monospace;}
+             h5{text-align: center;color:black;font-size:12pt;font-family: 'Cutive Mono', monospace;}
+             h6{text-align: center;color:black;font-size:12pt;font-family: 'Cutive Mono', monospace;}
+             p{color:pink;font-size:12pt;font-family: 'Cutive Mono', monospace;}
+                body {
+                    background-color:greenyellow
+                }
+                .center {
+    text-align-last: center; color: fuchsia
+}
