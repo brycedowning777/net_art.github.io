@@ -1,6 +1,6 @@
 body
-<link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet">
-h1{text-align: center;color:white;font-size:24pt;font-family: 'Cutive Mono', monospace;}
+<link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet2">
+h1{color:fuchsia;font-size:24pt;font-family: 'Cutive Mono', monospace;text-align-last: center;}
              h2{text-align: center; color:black;font-size:12pt;font-family: 'Cutive Mono', monospace;}
              h3{text-align: center;color:black;font-size:12pt;font-family: 'Cutive Mono', monospace;}
              h4{text-align: center;color:black;font-size:12pt;font-family: 'Cutive Mono', monospace;}
